@@ -11,8 +11,8 @@ calculation.Calculate();
 Sum total of all rows
 ```
 var calculation = new Calculation();
-calculation.totalfield = $(".calc-specificgroupname-total");
-calculation.sumfields = $(".calc-specificgroupname.calc-container .calc-total");
+calculation.totalfield = $(".calc-specificgroup1-total");
+calculation.sumfields = $(".calc-specificgroup1.calc-container .calc-total");
 calculation.Calculate();
 ```
 
